@@ -4,7 +4,7 @@ Program Data Mahasiswa
 Membuat data Mahasiswa menggunakan Dictionary dengan python
 
 NAMA : RIO SAPUTRA
-KELAS : T.21.CI
+KELAS : TI.21.C1
 NIM : 312110533
 
 UNIVERSITAS PELITA BANGSA
@@ -41,4 +41,4 @@ Jika kita menginputkan selain yang ada pada menu (t,u,h,c,l,k) maka kita akan di
 ![Gambar 2](screenshot/SS3.png)
 
 ## Output Program
-![Gambar 3](screenshot/ss1.png)
+![Gambar 3](screenshot/SS1.png)
